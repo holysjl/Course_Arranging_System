@@ -1,0 +1,340 @@
+0的课程表\
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+2529的课程表\
+free 网络技术导论
+计科六班
+张冬梅 free free free 
+free 网络技术导论
+计科六班
+张冬梅 free free free 
+网络技术导论
+计科五班
+张冬梅 free free free free 
+网络技术导论
+计科五班
+张冬梅 free free free free 
+网络技术导论
+计科四班
+魏更宇 网络技术导论
+计科一班
+魏更宇 网络技术导论
+计科七班
+张冬梅 网络技术导论
+计科八班
+张冬梅 free 
+网络技术导论
+计科四班
+魏更宇 网络技术导论
+计科一班
+魏更宇 网络技术导论
+计科七班
+张冬梅 网络技术导论
+计科八班
+张冬梅 free 
+网络技术导论
+计科九班
+郭岗 网络技术导论
+计科十班
+郭岗 网络技术导论
+计科二班
+魏更宇 free 网络技术导论
+计科三班
+魏更宇 
+网络技术导论
+计科九班
+郭岗 网络技术导论
+计科十班
+郭岗 网络技术导论
+计科二班
+魏更宇 free 网络技术导论
+计科三班
+魏更宇 
+2406的课程表\
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+8888的课程表\
+free 体育基础
+计科九班 计科十班 
+刘利 free free free 
+free 体育基础
+计科九班 计科十班 
+刘利 free free free 
+体育基础
+计科三班 计科四班 
+刘利 free free free free 
+体育基础
+计科三班 计科四班 
+刘利 free free free free 
+free 体育基础
+计科五班 计科六班 
+刘利 free free free 
+free 体育基础
+计科五班 计科六班 
+刘利 free free free 
+free free 体育基础
+计科七班 计科八班 
+刘利 free 体育基础
+计科一班 计科二班 
+刘利 
+free free 体育基础
+计科七班 计科八班 
+刘利 free 体育基础
+计科一班 计科二班 
+刘利 
+2428的课程表\
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+2432的课程表\
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+2226的课程表\
+电路与电子学基础
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+侯宾 大学物理
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+刘尖斌 大学物理
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+刘尖斌 高等数学
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+罗群 数学分析
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+郭奋卓 
+电路与电子学基础
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+侯宾 大学物理
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+刘尖斌 大学物理
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+刘尖斌 高等数学
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+罗群 数学分析
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+郭奋卓 
+free 电路与电子学基础
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+侯宾 高等数学
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+罗群 高等数学
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+罗群 数学分析
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+郭奋卓 
+free 电路与电子学基础
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+侯宾 高等数学
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+罗群 free free 
+电路与电子学基础
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+魏翼飞 free 马克思主义原理
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+赵玲 数学分析
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+郭奋卓 马克思主义原理
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+赵玲 
+电路与电子学基础
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+魏翼飞 free 马克思主义原理
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+赵玲 数学分析
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+郭奋卓 马克思主义原理
+计科一班 计科二班 
+计科三班 计科四班 
+计科五班 
+赵玲 
+free free free 离散数学
+计科一班 计科二班 
+计科三班 计科四班 
+吴斌 马克思主义原理
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+赵玲 
+free free free 离散数学
+计科一班 计科二班 
+计科三班 计科四班 
+吴斌 马克思主义原理
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+赵玲 
+2327的课程表\
+数学分析
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+郭奋卓 free 高等数学
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+李鹤 大学物理
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+刘尖斌 高等数学
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+李鹤 
+数学分析
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+郭奋卓 free 高等数学
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+李鹤 大学物理
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+刘尖斌 高等数学
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+李鹤 
+数学分析
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+郭奋卓 电路与电子学基础
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+魏翼飞 大学物理
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+刘尖斌 马克思主义原理
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+赵玲 高等数学
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+李鹤 
+free 电路与电子学基础
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+魏翼飞 大学物理
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+刘尖斌 马克思主义原理
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+赵玲 free 
+free free free free 数学分析
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+郭奋卓 
+free free free free 数学分析
+计科六班 计科七班 
+计科八班 计科九班 
+计科十班 
+郭奋卓 
+free free free 离散数学
+计科五班 计科六班 
+计科七班 计科八班 
+计科九班 计科十班 
+徐六通 free 
+free free free 离散数学
+计科五班 计科六班 
+计科七班 计科八班 
+计科九班 计科十班 
+徐六通 free 
+2326的课程表\
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+2330的课程表\
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
+free free free free free 
